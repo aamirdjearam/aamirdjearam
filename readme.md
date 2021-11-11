@@ -5,4 +5,4 @@ Learn and be curious (Amazon's fifth leadership principle) is perhaps the most i
 
 Coming from a background in English Literature, I had only recently changed paths and discovered my passion for creating and improving technology that improves the lives of others. I especially grew a fondness for cloud-based products. Designing, creating and deploying software all without local resources is truly a marvel and the future of technology as we know it. Nothing makes me happier than seeing our stakeholder's visions for a product come to fruition.
 
-Think Big. Be Frugal. Deliver Results and Always Learn and Be Curious!!!
+**Think Big. Be Frugal. Deliver Results and Always Learn and Be Curious!!!**
