@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/tVlS7s1.png">
+<img src="https://i.imgur.com/tVlS7s1h.png">
 
 # Welcome to my GitHub page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Every great product revolves around its customer. Whether its something that propels mankind forward or something that resolves a simple inconvenience, the ***customer is at the forefront*** of every product's mission.
