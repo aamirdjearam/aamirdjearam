@@ -19,3 +19,4 @@ Coming from a background in English Literature, I had only recently changed path
 ![](https://img.shields.io/badge/Tools-Amazon_AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=007ACC)
