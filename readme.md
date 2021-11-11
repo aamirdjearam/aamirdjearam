@@ -7,6 +7,7 @@ Coming from a background in English Literature, I had only recently changed path
 
 ***Think Big. Be Frugal. Deliver Results and Always Learn and Be Curious!!!***
 
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
